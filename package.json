@@ -1,0 +1,21 @@
+{
+  "name": "timestamp",
+  "version": "1.0.0",
+  "description": "example of 3 servers working together - using node modules request and async",
+  "main": "server.js",
+  "dependencies": {
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "lodash": "^4.5.1",
+    "moment": "^2.11.2",
+    "sugar": "^1.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
