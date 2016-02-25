@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "example of 3 servers working together - using node modules request and async",
   "main": "server.js",
+  "engines": {
+    "node": "4.1.2"
+  },
   "dependencies": {
     "ejs": "^2.4.1",
     "express": "^4.13.4",
